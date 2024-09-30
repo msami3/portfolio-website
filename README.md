@@ -22,4 +22,3 @@ This repository contains the source code for a personal portfolio website hosted
 - CSS3
 - JavaScript (optional)
 - AWS S3 (Hosting)
-- [Other Libraries/Frameworks] (optional, mention if used)
